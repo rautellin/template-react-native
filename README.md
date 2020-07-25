@@ -1,13 +1,12 @@
-# Project React Native App 📱
+# React Native App
 
-Replace this readme with your own information about your project.
+This templaete includes the packages and babel setup for a React Native app, and is just meant to make things a little simpler to get up and running with.
+Getting started
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+## Getting started
 
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
-
-## View it live
-
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+1. Use this template and make a new repo
+2. In the terminal, run `npm install` to install the dependencies needed
+3. Run the react native development server by running `npm start` or `expo start`
+4. Make sure that you have signed up to expo.io and downloaded the app to your phone.
+5. Scan the QR code to open upp the app on your phone. Make sure that your phone and your computer is connected to the same network.
